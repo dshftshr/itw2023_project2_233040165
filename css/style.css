@@ -38,6 +38,7 @@
     margin: auto;
     font-size: 18px;
     line-height: 1.9;
+    color: #FFD166;
 }
 .carousel-inner::before{
     content: '';
@@ -63,6 +64,15 @@
 .style-biru h2 span{
     color: #FFD166;
 } 
+
+.style-biru h3 span{
+    color: #FFD166;
+}
+
+.style-grey h2 span{
+    color: #FFD166;
+}
+
 .button.btn-warning{
     background-color: #FFD166;
 }
@@ -84,6 +94,10 @@ h2.style-judul::after{
 /* Our Client */
 
 /* Footer */
+.style-footer-menu h2{
+    color: #FFD166;
+    margin-bottom: 15px;
+}
 .style-footer-menu h3{
     color: #FFD166;
     margin-bottom: 15px;
